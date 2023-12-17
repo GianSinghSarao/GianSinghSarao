@@ -1,16 +1,36 @@
 # Gian Singh Sarao
 
-I live in Leicester, in the UK.
+- Leicester, UK
+- <AwesomeOrange1000@protonmail.com> ***OR*** <AwesomeOrange1000@gmail.com>
+- <https://GianSinghSarao.github.io/>
+- <https://github.com/GianSinghSarao/>
 
-My email address is: <AwesomeOrange1000@gmail.com>
+## Personal Profile
 
-My website is at: <https://GianSinghSarao.github.io/>
+Self-motivated, confident, and always willing to learn. Has a positive and responsive attitude. Well presented, polite, and quick thinking. Capable of performing effectively as a collaborative team member or independently. Actively seeking new employment opportunities and a chance to demonstrate skills and abilities to an employer.
 
-You can see my programming projects at: <https://github.com/GianSinghSarao/>
+## Skills And Abilities
 
-## Summary
+### Key Skills
 
-I am relatively self-motivated, confident, and always willing to learn.
+- Adept problem-solving skills
+- Logical, practical, and "hands-on"
+- Good attention to detail – meticulous, conscientious, and quality-orientated
+- Strong communication and interpersonal skills - Confident in communicating with others in person or over the phone
+- Multilingual
+  - English (Native)
+  - French (Semi-fluent)
+
+### IT Skills
+
+- Generally tech-savvy - (Keeps up to date with developments in the industry)
+- Can use digital comms - including email, teams, slack, etc
+- Adept at using Office applications
+- Can perform basic repairs or upgrades - such as replacing PC components
+- Can write code - often writes scripts to semi-automate tasks. Experienced with:
+  - Markdown / HTML + CSS
+  - JavaScript / TypeScript
+  - PowerShell / Batch / Bash Scripts
 
 ## Educational History
 
@@ -27,43 +47,14 @@ I am relatively self-motivated, confident, and always willing to learn.
 - French (H)
 - Statistics 8382 (H)
 
-## Skills and Abilities
-
-The distinction between Skills and Abilities is that Skills connotate expertise, whereas Abilities are just things I can do.
-
-### Tech Skills
-
-I can write Markdown, HTML, and CSS. I can write JavaScript (for the browser and NodeJS). I can write batch files and shell scripts (for Windows and Linux, respectively).
-
-### Tech Abilities
-
-I can use Office programs such as Word, Excel, PowerPoint, etc (Though I prefer their LibreOffice equivalents).
-
-I know how to use search engines effectively to get good results quickly.
-
-### Language Skills
-
-English. I grew up reading, writing, listening, and speaking the language. I don't particularly want to prove it here - talk to me, and it'll become evident, no?
-
-### Language Abilities
-
-I have a formal qualification in French. But also, I haven't refreshed my French in a while. Regardless, my proficiency is at least equivalent to that of a primary school child in reading and writing.
-
-Thanks to my mum, who often speaks Punjabi at home, I can understand it well, although I can't read or write in Punjabi.
-
-At some point, I became interested in anime, So I started learning Japanese. I'm not even at the level of a pre-schooler (yet / at the time of writing this CV), but I am actively and consistently teaching myself Japanese using Duolingo.
-
 ## Other Experiences
 
-### "Robotics" Club (Y8 - Y10 I think (I can't remember exactly))
+### Computing / "Robotics" Club (Y7 - Y11)
 
-I joined a computing club relatively early on, though before I knew it, it morphed into a robotics club. That said, "robotics" meant programmable LEGO, so I was disappointed that I couldn't use the Product Design lab to build a fully custom robot.
-
-The new LEGO/Robotics club dedicated itself to winning the EV3 Space Challenge (<https://education.lego.com/en-us/lessons/ev3-space-challenge/>).
-
-During the first year, someone had the idea to make a website. Since I had the best one early on, the website was mainly my responsibility.
-
-The website didn't get much attention in subsequent years, but I stayed in the club and worked on programming the robot.
+- Started with a focus on computing, but the club transitioned to robotics.
+- The new Robotics club dedicated itself to winning the EV3 Space Challenge (<https://education.lego.com/en-us/lessons/ev3-space-challenge/>).
+- While it was still focused on computing, I worked on a website for the team.
+- Later on, when the focus shifted to robotics, I worked on programming the robot.
 
 <!--
 **GianSinghSarao/GianSinghSarao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
