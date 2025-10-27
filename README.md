@@ -1,9 +1,8 @@
 # CV of Gian Singh Sarao
 
-- Leicester, UK
-- <AwesomeOrange1000@protonmail.com> ***OR*** <AwesomeOrange1000@gmail.com>
-- <https://GianSinghSarao.github.io/>
-- <https://github.com/GianSinghSarao/>
+|Based in:|Contact me at:|See my public work at:|
+|-|-|-|
+|Leicester, UK|<AwesomeOrange1000@protonmail.com> or <AwesomeOrange1000@gmail.com>|<https://GianSinghSarao.github.io/> <https://github.com/GianSinghSarao/>|
 
 ## Personal Profile
 
@@ -42,7 +41,7 @@ In progress - Already covered some modules.
 | ------------------------------------------ | ---- | ----------------- |
 | Discovering mathematics (MU123)            | 2024 | Distinction       |
 | Introduction to Computing and IT 1 (TM111) | 2024 | Distinction       |
-| Introduction to Computing and IT 2 (TM112) | 2025 | (Awaiting Grade)  |
+| Introduction to Computing and IT 2 (TM112) | 2025 | Distinction       |
 | Technologies in practice (TM129)           | 2025 | (Studying)        |
 
 ### NCFE Certificate in Cybersecurity Practices @ TWIN Group (May - June 2024) [L3]
